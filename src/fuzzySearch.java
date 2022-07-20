@@ -1,10 +1,4 @@
-// --== CS400 File Headearr Information ==--
-// Name: <Liangqi Cai>
-// Email: <lcai42@wisc.edu>
-// Team: <JB>
-// TA: <Harper>
-// Lecturer: <Florian>
-// Notes to Grader: <optional extra notes>
+
 
 package Application;
 
